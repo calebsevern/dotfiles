@@ -13,3 +13,8 @@ syntax on
 
 " Disable splash screen
 set shortmess=atI
+
+" Enable code folding
+set foldmethod=indent
+set nofoldenable
+set foldlevel=1
